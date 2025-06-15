@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.tonywww.tfcnocollapse.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "WorldTrackerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "tfcnocollapse.refmap.json"
+}
